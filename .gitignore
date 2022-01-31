@@ -1,0 +1,5 @@
+#Ignire .files
+.*
+
+#Don't ignore .gitignore
+!.gitignore
